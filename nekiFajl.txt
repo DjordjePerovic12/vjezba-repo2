@@ -11,3 +11,5 @@ jos uodate
 #treci dio dokumenta na featuru 
 
 update feature 
+
+jos po nesto na feature s
