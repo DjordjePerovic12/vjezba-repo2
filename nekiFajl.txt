@@ -1,2 +1,9 @@
 #Demo 
-neki text za repozitorijum koji se prvobitno pravi lokalno, a ne na github
+neki text za repozitorijum koji se prvobitno pravi lokalno, a ne na githubgit
+
+
+
+#novi dio dokumenta
+
+neki update 
+jos uodate 
