@@ -7,3 +7,7 @@ neki text za repozitorijum koji se prvobitno pravi lokalno, a ne na githubgit
 
 neki update 
 jos uodate 
+
+#treci dio dokumenta na featuru 
+
+update feature 
